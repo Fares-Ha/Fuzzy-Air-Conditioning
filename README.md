@@ -9,3 +9,4 @@ The output parameters include compressor speed (Sc) and fan speed (Sf), operatin
 Ut contains three fuzzy sets, Tdiff has four fuzzy sets, and Td has two fuzzy sets, resulting in a 3x4x2=24 cell matrix. Each cell contains four outputs, namely compressor speed, fan speed, operating mode, and fan direction.
 
 This is equivalent to a total of 24 IF-THEN rules.
+
